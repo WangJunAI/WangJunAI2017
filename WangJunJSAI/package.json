@@ -1,0 +1,12 @@
+{
+  "name": "wang-jun-jsai",
+  "version": "0.0.0",
+  "description": "WangJunJSAI",
+  "main": "app.js",
+  "author": {
+    "name": "Jun"
+  },
+  "dependencies": {
+    "nn": "0.0.6"
+  }
+}
